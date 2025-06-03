@@ -1,0 +1,8 @@
+/* Any custom styles not covered by Tailwind can go here */
+.app-container {
+  @apply flex min-h-screen;
+}
+
+.content {
+  @apply flex-1 p-5 ml-64; /* 64 = 16rem = w-64 from Navigation */
+}
