@@ -69,10 +69,10 @@ FraudGen is an end-to-end fraud detection system that **generates synthetic tran
 
 ## 🚀 Quick Start
 
-### 1) Clone & set up
+### Clone
 ```bash
 git clone https://github.com/bhumiti28/FraudGen.git
-cd FraudGen
-cp .env.example .env   # edit values inside
+
+
 
 
